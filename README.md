@@ -78,10 +78,18 @@ The notebook records model evaluation and sample predictions. The static HTML ex
 
 The following images illustrate sample model predictions, patch extraction, and training results. Place the supplied image files in an `images/` folder at the repository root with the exact filenames shown below so they render correctly in this README.
 
-- **Model sample prediction (truck):** ![Model Prediction - truck](images/truck.png)
-- **Image size and patch info:** ![Image size and patches](images/image_patches.png)
-- **Patch grid visualization:** ![Patch grid](images/patch_grid.png)
-- **Training/test results snapshot:** ![Training results](images/training_stats.png)
+- **Model sample prediction (truck):**
+- <img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/faee0925-77d3-4849-a5c0-7ef58d8cd025" />
+
+- **Image size and patch info:** 
+- <img width="496" height="508" alt="Screenshot 2026-06-11 183456" src="https://github.com/user-attachments/assets/03f8d72b-88e2-4b88-91b6-8e7328aa04f9" />
+
+- **Patch grid visualization:**
+- <img width="329" height="328" alt="image" src="https://github.com/user-attachments/assets/7862153f-6220-44ea-b92d-e4959f4a52e1" />
+
+- **Training/test results snapshot:**
+- <img width="1040" height="68" alt="Screenshot 2026-06-11 183642" src="https://github.com/user-attachments/assets/b85b6f89-6e67-47e5-8e56-655a09d9c028" />
+
 
 If you'd like, I can add these image files into the `images/` folder for you — tell me to proceed and I'll place them there and mark the todo list accordingly.
 
